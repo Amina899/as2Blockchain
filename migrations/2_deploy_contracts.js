@@ -1,0 +1,1 @@
+const AITU_AminaToken = artifacts.requier
